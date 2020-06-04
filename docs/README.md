@@ -1,4 +1,4 @@
-# Start {docsify-ignore-all}
+# Start
 > [HOME](https://willasas.github.io/ArticleManagementSystem/#/)
 
 ## Article management system
