@@ -8,3 +8,13 @@ main{height: auto;}
   border-radius: 50%;
   text-align: center;
 }
+
+.about{
+  width: auto;
+  height: 32px;
+  margin-right: 5px;
+}
+
+.copyright{
+  margin-top: 5px;
+}
