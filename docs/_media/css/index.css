@@ -10,9 +10,11 @@ main{height: auto;}
 }
 
 .about{
-  width: auto;
-  height: 32px;
-  margin-right: 5px;
+  height: 42px;
+}
+
+.icons{
+  padding-right: 10px;
 }
 
 .copyright{
