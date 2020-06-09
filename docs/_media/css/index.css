@@ -2,3 +2,9 @@
 .content{position: static;padding-left: 300px;}
 main{height: auto;}
 #gitalk-container{padding-left: 300px;}
+
+/* footer css */
+.foot{
+  border-radius: 50%;
+  text-align: center;
+}
