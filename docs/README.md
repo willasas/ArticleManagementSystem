@@ -15,6 +15,7 @@ It is a lightweight static document management system based on docsify and nodej
 - Online comments
 - Full text search
 - Copy to Clipboard
+- Progressive Web Apps
 
 ## Community
 
