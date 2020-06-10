@@ -3,5 +3,5 @@
 - [MongoDB官网](https://www.mongodb.com/)
 
 ## **数据库相关**
-- [MYSQL](Mysql/msList.md)
-- [MongoDB](Mongodb/mgList.md)
+- [MYSQL](Database/Mysql/msList.md)
+- [MongoDB](Database/Mongodb/mgList.md)
