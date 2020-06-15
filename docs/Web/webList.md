@@ -56,6 +56,7 @@
 - [python教程](https://docs.microsoft.com/zh-cn/windows/python/)
 - [W3school](https://www.w3school.com.cn/)
 - [Json在线解析及格式化验证](https://www.json.cn/)
+- [Web CS142项目](http://web.stanford.edu/class/cs142/projects.html)
 
 #### 软件下载类网站
 - [盒子部落](https://www.hezibuluo.com/)
@@ -96,6 +97,7 @@
 - [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 - [PyTorch](https://github.com/pytorch/pytorch)
 - [Awesome-Deep-Learning-Papers](https://github.com/terryum/awesome-deep-learning-papers)
+- [vue图片裁剪插件](https://github.com/acccccccb/vue-img-cutter)
 
 #### css3工具
 - <a href="http://css3pie.com/" title="使用CSS3 Pie可以让IE6至IE8版本实现大多数的CSS3修饰特性，如圆角、阴影、渐变等等">CSS3 Pie</a>
@@ -146,4 +148,8 @@
 - [js在线运行](https://www.sojson.com/)
 - [Postman](https://www.postman.com/downloads/)
 - [Codesandbox](https://codesandbox.io/dashboard/recent)
+- [Codepen](https://codepen.io/)
 - [Chromestore](http://www.chromestore.cn/2018/09/18/sourcegraph/)
+- [代码自动生成文档](https://github.com/YeDaxia/JApiDocs)
+- [云编辑器搭建](https://github.com/cdr/code-server/blob/master/doc/guide.md)
+- [在线流程图](https://www.liuchengtu.com/process)

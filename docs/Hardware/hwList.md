@@ -9,3 +9,4 @@
 - [GPU](Hardware/GPU.md)
 
 ## **评测相关**
+- [CPU保修查询](Hardware/CPU序列号查询.md)

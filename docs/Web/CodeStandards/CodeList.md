@@ -14,3 +14,4 @@
 ## **其他**
 - [前端常用js](Web/CodeStandards/前端常用60余种工具.md)
 - [前端js开发技巧](Web/CodeStandards/前端复用js总结.md)
+- [开发流程图](Web/CodeStandards/开发流程图.md)
