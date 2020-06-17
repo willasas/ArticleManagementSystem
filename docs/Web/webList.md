@@ -99,6 +99,26 @@
 - [Awesome-Deep-Learning-Papers](https://github.com/terryum/awesome-deep-learning-papers)
 - [vue图片裁剪插件](https://github.com/acccccccb/vue-img-cutter)
 
+- [python小练习](https://github.com/Yixiaohan/show-me-the-code)
+- [动漫人物面部跟踪](https://github.com/Aditya-Khadilkar/Face-tracking-with-Anime-characters)
+- [用python实现所有的算法](https://github.com/TheAlgorithms/Python)
+- [最著名的爬虫框架scrape](https://github.com/scrapy/scrapy)
+- [入门级的人脸](https://github.com/Vipstone/faceai)
+- [pthon示列大量小脚本](https://github.com/geekcomputers/Python)
+- [500行以下](https://github.com/aosabook/500lines)
+- [500行以下中文版](https://github.com/HT524/500LineorLess_CN)
+
+> 推荐网站
+- [simpleprogrammer](https://simpleprogrammer.com/)
+- [coolshell](https://coolshell.cn/)
+- [免费资源网络社区](https://free.com.tw/)
+- [Una Kravets' Blog](https://una.im/)
+- [habitica](https://habitica.com/)
+- [Cold Turkey](https://getcoldturkey.com/)
+- [快速导航](http://navi.chenqiwei.com/)
+- [Carbon](https://carbon.now.sh/)
+- [BrowserFrame](https://browserframe.com/)
+
 #### css3工具
 - <a href="http://css3pie.com/" title="使用CSS3 Pie可以让IE6至IE8版本实现大多数的CSS3修饰特性，如圆角、阴影、渐变等等">CSS3 Pie</a>
 - <a href="https://css3clickchart.com/" title="CSS3效果演示，提供了示例代码">CSS3 Click Chart</a>

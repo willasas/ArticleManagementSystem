@@ -12,3 +12,4 @@
   
 ## **系统操作**
 - [Dos操作](system-optimization/Dos命令.md)
+- [Windows Terminal更新](system-optimization/Windows10命令行工具更新.md)
