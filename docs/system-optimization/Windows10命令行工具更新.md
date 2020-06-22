@@ -13,4 +13,4 @@
 ![安装结果](../img/so_img/run11.png)
 
 #### 注意事项
-* 111111
+* 新版本的termnial支持部分Linux命令
