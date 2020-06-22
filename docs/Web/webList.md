@@ -104,7 +104,9 @@
 - [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 - [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
 - [计算机专业课（408）思维导图和笔记](https://github.com/SSHeRun/CS-Xmind-Note)
-  > 深度学习
+
+> 深度学习
+
 - [TensorFlow](https://github.com/tensorflow/tensorflow)
 - [Keras](https://github.com/keras-team/keras)
 - [OpenCV](https://github.com/opencv/opencv)
