@@ -4,7 +4,8 @@
 
 - Ubuntu 16.04.5 LTS
 - python 3.8
-- shadowsocks
+- [shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases)
+- [.NET Framework 4.6.2](https://www.microsoft.com/zh-CN/download/details.aspx?id=53344) 和 [Microsoft Visual C++ 2015 Redistributable](https://www.microsoft.com/en-us/download/details.aspx?id=53840)
 
 ## **步骤说明**
 
@@ -73,6 +74,18 @@ ssserver -c /etc/shadowsocks.json -d start
 
 ![安装依赖项](../../img/l_img/ssr1.png)
 ![编辑配置](../../img/l_img/ssr2.png)
+
+## **客户端配置**
+
+**1. 下载完成默认安装即可**
+
+**2. 启动 Shadowsocks 程序，在任务栏中右键程序图标，添加服务器，配置如图：**
+
+![配置](../../img/l_img/ssr3.png)
+
+**3. 选择 启用系统代理 来启用系统代理。请禁用浏览器里的代理插件，或把它们设置为使用系统代理。**
+
+- 除了设为系统代理，你也可以直接自己配置浏览器代理。在 SwitchyOmega 中把代理设置为 SOCKS5 或 HTTP 的 127.0.0.1:1080。这个 1080 端口可以在服务器设置中设置。
 
 ## **注意事项**
 
