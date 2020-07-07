@@ -72,6 +72,18 @@
 - [盒子部落](https://www.hezibuluo.com/)
 - [模拟黑客](http://geektyper.com/shield/)
 
+> 模型素材
+
+- [3dsky](https://3dsky.org/)
+- [cgtrader](https://www.cgtrader.com/)
+- [Turbosquid](https://www.turbosquid.com/)
+- [blendswap](https://www.blendswap.com/)
+- [Chocofur](https://chocofur.com/)
+- [free3d](https://free3d.com/)
+- [Sketchfab](https://sketchfab.com/)
+- [开源模型库](https://www.pixelsquid.com/)
+- [高精度自动建模](https://www.capturingreality.com/)
+
 #### 游戏引擎类网站
 
 - [唤境](https://www.evkworld.com/?c=600010&sc=600033)
@@ -201,3 +213,5 @@
 - [云编辑器搭建](https://github.com/cdr/code-server/blob/master/doc/guide.md)
 - [在线流程图](https://c.runoob.com/more/shapefly-diagram/#)
 - [解压缩软件](http://www.bandizip.com/)
+- [performancetest](https://www.passmark.com/)
+- [在线表格转换格式](https://tableconvert.com/)
