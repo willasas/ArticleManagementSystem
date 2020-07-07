@@ -23,8 +23,7 @@
 
 - Hardware
 
-  - [CPU](Hardware/cpu科普.md)
-  - [GPU](Hardware/显卡科普.md)
+  - [硬件](Hardware/hwList.md)
 
 - Web
 
