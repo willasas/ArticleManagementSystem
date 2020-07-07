@@ -54,7 +54,7 @@ CS：：GO、彩虹六号、绝地求生、使命召唤等（FPS 类和部分 AC
 
 计算方式如下图：
 
-![屏幕宽度计算](..//img/hw_img/m1.png)
+![屏幕宽度计算](../img/hw_img/m1.png)
 
 | 桌面尺寸（m）    | 建议显示器尺寸（寸）            | 说明                      |
 | ---------------- | ------------------------------- | ------------------------- |
@@ -104,19 +104,19 @@ _4K 144Hz: 主机配置要好，显卡要 RXT 2080Ti 以上_
 
 ### 4.曲率
 
-![曲率](..//img/hw_img/m2.png)
+![曲率](../img/hw_img/m2.png)
 
 ### 5.色彩亮度
 
-![sRGB](..//img/hw_img/m3.png)
+![sRGB](../img/hw_img/m3.png)
 
-![Adobe RGB](..//img/hw_img/m4.png)
+![Adobe RGB](../img/hw_img/m4.png)
 
 注意：99% sRGB ≈ 72% NTSC,但 72% NTSC≠99% sRGB
 
 ### 6.色准(DeltaE)
 
-![色准](..//img/hw_img/m5.png)
+![色准](../img/hw_img/m5.png)
 
 ### 7.亮度
 
@@ -126,7 +126,7 @@ _4K 144Hz: 主机配置要好，显卡要 RXT 2080Ti 以上_
 
 ### 8.HDR(根据亮度来认证的)
 
-![HDR](..//img/hw_img/m6.png)
+![HDR](../img/hw_img/m6.png)
 
 ### 9.接口
 
