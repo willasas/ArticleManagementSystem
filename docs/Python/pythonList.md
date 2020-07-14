@@ -5,6 +5,7 @@
 ## **Python 常用**
 
 - [python 打包](Python/python打包.md)
+- [数据挖掘工具](Python/数据挖掘工具.md)
 
 ## **Python 实战**
 

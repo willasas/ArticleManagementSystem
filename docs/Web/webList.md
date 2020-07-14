@@ -116,6 +116,10 @@
 - [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 - [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
 - [计算机专业课（408）思维导图和笔记](https://github.com/SSHeRun/CS-Xmind-Note)
+- [go 语言学习](https://qcrao91.gitbook.io/go/)
+- [500lines](https://github.com/aosabook/500lines)
+- [在线文件目录程序](https://github.com/zhaojun1998/zfile)
+- [自动生成虚拟人物](https://www.thiswaifudoesnotexist.net/)
 
 > 深度学习
 
@@ -215,3 +219,4 @@
 - [解压缩软件](http://www.bandizip.com/)
 - [performancetest](https://www.passmark.com/)
 - [在线表格转换格式](https://tableconvert.com/)
+- [爱资料工具](https://www.toolnb.com/)
