@@ -103,6 +103,7 @@
 - [罗马盘](https://www.luomapan.com/)
 - [yandex 搜索](https://yandex.com/)
 - [AI 学习引擎](https://magi.com/)
+- [无解搜](http://www.wujiesou.com/)
 
 #### GitHub 相关
 
@@ -218,5 +219,12 @@
 - [在线流程图](https://c.runoob.com/more/shapefly-diagram/#)
 - [解压缩软件](http://www.bandizip.com/)
 - [performancetest](https://www.passmark.com/)
+
+> 视频创作类
+
 - [在线表格转换格式](https://tableconvert.com/)
 - [爱资料工具](https://www.toolnb.com/)
+- [视频片头动画下载](https://panzoid.com/)
+- [音频下载](https://www.ear0.com/)
+- [pr 模板下载](https://mixkit.co/)
+- [自由字体](https://ziyouziti.com/)

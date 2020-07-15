@@ -29,6 +29,7 @@
 
   - [Build_a_blog](Web/个人博客搭建.md)
   - [Nodejs](Web/Nodejs/node_js安装教程.md)
+  - [typescript](Web/Nodejs/typescript安装.md)
   - [vue](Web/Vue/VList.md)
   - [VsCode](Web/VsCode/VCList.md)
   - [Git](Web/Git/GitList.md)

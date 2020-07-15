@@ -5,6 +5,7 @@
 ## **Go 微服务**
 
 - [微服务介绍](Go/Micro_services/微服务介绍.md)
+- [RPC 简介](Go/Micro_services/RPC.md)
 
 ## **Go 脚手架**
 
