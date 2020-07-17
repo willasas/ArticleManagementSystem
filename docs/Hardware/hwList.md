@@ -21,4 +21,5 @@
 
 ## **评测相关**
 
+- [测试工具合集](Hardware/PCTesting.md)
 - [CPU 保修查询](Hardware/CPU序列号查询.md)

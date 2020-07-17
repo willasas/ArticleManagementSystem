@@ -121,6 +121,7 @@
 - [500lines](https://github.com/aosabook/500lines)
 - [在线文件目录程序](https://github.com/zhaojun1998/zfile)
 - [自动生成虚拟人物](https://www.thiswaifudoesnotexist.net/)
+- [文字识别](https://github.com/PaddlePaddle/PaddleOCR)
 
 > 深度学习
 
@@ -218,7 +219,8 @@
 - [云编辑器搭建](https://github.com/cdr/code-server/blob/master/doc/guide.md)
 - [在线流程图](https://c.runoob.com/more/shapefly-diagram/#)
 - [解压缩软件](http://www.bandizip.com/)
-- [performancetest](https://www.passmark.com/)
+- [临时邮箱](http://24mail.chacuo.net/)
+- [临时接收手机验证码](www.materialtools.com/)
 
 > 视频创作类
 
