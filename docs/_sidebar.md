@@ -20,6 +20,7 @@
 
   - [BadUSB](IOT/badUSB.md)
   - [ESP8266](IOT/wifi干扰器.md)
+  - [DIY 电脑实时监控小屏幕](IOT/实时监控小屏幕.md)
 
 - Hardware
 
@@ -35,7 +36,6 @@
   - [Git](Web/Git/GitList.md)
   - [CloudServers](Web/CloudServers/CloudList.md)
   - [CodeStandards](Web/CodeStandards/CodeList.md)
-  - [webList](Web/webList.md)
   - [Weblearning](Web/前端完整学习路线.md)
 
 - UI design

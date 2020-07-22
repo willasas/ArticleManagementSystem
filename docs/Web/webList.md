@@ -122,6 +122,7 @@
 - [在线文件目录程序](https://github.com/zhaojun1998/zfile)
 - [自动生成虚拟人物](https://www.thiswaifudoesnotexist.net/)
 - [文字识别](https://github.com/PaddlePaddle/PaddleOCR)
+- [KSFramework 游戏开发框架](https://github.com/mr-kelly/KSFramework)
 
 > 深度学习
 
@@ -221,6 +222,8 @@
 - [解压缩软件](http://www.bandizip.com/)
 - [临时邮箱](http://24mail.chacuo.net/)
 - [临时接收手机验证码](www.materialtools.com/)
+- [文字生成字符](http://patorjk.com/software/taag)
+- [在线图片转换](https://jinaconvert.com/cn/convert-to-ico.php)
 
 > 视频创作类
 
@@ -230,3 +233,11 @@
 - [音频下载](https://www.ear0.com/)
 - [pr 模板下载](https://mixkit.co/)
 - [自由字体](https://ziyouziti.com/)
+
+> 音乐创作
+
+- [Amplesound](https://www.amplesound.net/en/download.asp)
+- [Spicy Guitar](http://www.dontcrack.com/freeware/downloads.php/id/5221/software/Spicy-Guitar/)
+- [Keyzone Classic](http://www.vst4free.com/free_vst.php?id=2848)
+
+* <a href="#">返回顶部</a>

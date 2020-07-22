@@ -1,0 +1,248 @@
+div {
+  position: absolute;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  border: 0.1vw solid #ee980f;
+  overflow: hidden;
+}
+
+div:before,
+div:after {
+  content: '';
+  display: block;
+  position: absolute;
+}
+
+body {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: hsl(0, 0%, 99%);
+  overflow-x: hidden;
+}
+
+.wrapper {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 78vw;
+  height: 70vh;
+  border: 0;
+  transform: translate(-50%, -50%);
+  overflow: visible;
+}
+
+.wrapper .icon {
+  position: relative;
+  display: inline-block;
+  width: 12vw;
+  height: 12vw;
+  margin: 2.5vw 1.5vw;
+  border: 0;
+  overflow: visible;
+}
+
+.wrapper .icon .moon,
+.wrapper .icon .planetoid,
+.wrapper .icon .planet {
+  border-radius: 50%;
+  background: hsl(0, 0%, 99%);
+}
+
+.wrapper .icon.icon6 .moon.top {
+  top: 15%;
+  left: 10%;
+  width: 8%;
+  height: 8%;
+  animation: icon6moontop 5s ease 0s infinite;
+}
+
+.wrapper .icon.icon6 .moon.bottom {
+  top: 85%;
+  right: 5%;
+  width: 1%;
+  height: 1%;
+  animation: icon6moonbottom 5s ease 0s infinite;
+}
+
+.wrapper .icon.icon6 .planet {
+  top: 25%;
+  left: 24%;
+  width: 63%;
+  height: 63%;
+}
+
+.wrapper .icon.icon6 .ring {
+  top: 45%;
+  left: 15%;
+  width: 80%;
+  height: 25%;
+  border-radius: 50%;
+  border-color: transparent #ee980f #ee980f #ee980f;
+  transform: rotate(17deg);
+  animation: icon6ring 5s linear 0s infinite alternate;
+}
+
+.wrapper .icon.icon6 .ring.planet {
+  top: 62.5%;
+  left: 40%;
+  width: 8%;
+  height: 8%;
+  border-color: #03fdfd;
+  background: hsl(0, 0%, 99%);
+  z-index: 1;
+  overflow: visible;
+  animation: icon6ringplanet 5s ease 0s infinite;
+}
+
+.wrapper .icon.icon6 .ring.planet:after {
+  top: -55%;
+  left: 80%;
+  width: 1%;
+  height: 1%;
+  border: 0.1vw solid #ee980f;
+  border-radius: 50%;
+}
+
+.wrapper .icon.icon6 .planetoid {
+  top: 25%;
+  left: 70%;
+  width: 20%;
+  height: 20%;
+  overflow: visible;
+  background: hsl(0, 0%, 99%);
+  animation: icon8planetoid 5s linear 0s infinite reverse;
+}
+
+.wrapper .icon.icon6 .planetoid:before {
+  top: -25%;
+  left: -25%;
+  width: 150%;
+  padding-top: 150%;
+  border: 0.1vw solid #ee980f;
+  border-radius: 50%;
+  border-color: #ee980f #ee980f transparent transparent;
+  transform: rotate(55deg);
+  background: transparent;
+}
+
+.wrapper .icon.icon6 .planetoid:after {
+  top: -40%;
+  left: 50%;
+  width: 20%;
+  padding-top: 20%;
+  border: 0.1vw solid #ee980f;
+  border-color: #ee980f transparent transparent #ee980f;
+  transform: rotate(-35deg);
+  background: transparent;
+}
+
+.disc {
+  color: #ee980f;
+  left: 17%;
+  width: 80%;
+  bottom: -20%;
+  border: none;
+  font-size: 20px;
+}
+
+@keyframes icon6moontop {
+  0% {
+    top: 15%;
+    left: 10%;
+    z-index: 0;
+  }
+
+  49% {
+    top: 60%;
+    left: 95%;
+    z-index: 0;
+  }
+
+  50% {
+    top: 60%;
+    left: 95%;
+    z-index: 1;
+  }
+
+  99% {
+    top: 15%;
+    left: 10%;
+    z-index: 1;
+  }
+
+  100% {
+    top: 15%;
+    left: 10%;
+    z-index: 0;
+  }
+}
+
+@keyframes icon6moonbottom {
+  0% {
+    top: 85%;
+    left: 95%;
+    z-index: 0;
+  }
+
+  49% {
+    top: 40%;
+    left: 5%;
+    z-index: 0;
+  }
+
+  50% {
+    top: 40%;
+    left: 5%;
+    z-index: -1;
+  }
+
+  99% {
+    top: 85%;
+    left: 95%;
+    z-index: -1;
+  }
+
+  100% {
+    top: 85%;
+    left: 95%;
+    z-index: 0;
+  }
+}
+
+@keyframes icon6ring {
+  0% {
+    transform: rotate(10deg);
+  }
+
+  100% {
+    transform: rotate(30deg);
+  }
+}
+
+@keyframes icon6ringplanet {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes icon6planetoid {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}

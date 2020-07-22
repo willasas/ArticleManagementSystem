@@ -8,13 +8,12 @@
 - Getting started
 
   - [Quick start](quickstart.md)
-  - [菜单 2](more-pages.md)
-  - [菜单 3](custom-navbar.md)
-  - [菜单 4](cover.md)
+  - <a href="nav/list.html">List</a>
+  - <a href="nav/note.html">Notes</a>
+  - <a href="nav/more.html">More</a>
 
 - Configuration
 
-  - [Configuration](configuration.md)
-  - [菜单 2](more-pages.md)
-  - [菜单 3](custom-navbar.md)
-  - [菜单 4](cover.md)
+  - [Hexo](Web/hexo搭建网站.md)
+  - [Tools](Web/webList.md)
+  - <a href="nav/amslogo.html">Logo</a>
