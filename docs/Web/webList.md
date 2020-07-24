@@ -1,20 +1,30 @@
 # 常用网站
 
-#### 接码平台
+#### 工作
 
 - [程序员客栈](https://www.proginn.com/)
 - [猿急送](https://www.yuanjisong.com/)
 - [码市](https://mart.coding.net/)
 
-#### 接码平台（国外）
+> work(国外)
 
 - [upwork](https://www.upwork.com/)
 - [freelancer](https://www.freelancer.com/)
+- [dribbble](https://dribbble.com/)
+- [stackoverflow](https://stackoverflow.com/)
+- [99designs](https://99designs.com/)
+- [remoteok](https://remoteok.io/open)
+- [angel](https://angel.co/company/angellist)
 - [华为终端云服务](https://developer.huawei.com/consumer/cn/hms/)
+
+> 在线代码编辑
+
+- [Codesandbox](https://codesandbox.io/dashboard/recent)
+- [Codepen](https://codepen.io/)
+- [云编辑器搭建](https://github.com/cdr/code-server/blob/master/doc/guide.md)
 
 #### 系统镜像下载
 
-- [我的 MSDN](https://www.imsdn.cn/)
 - [我告诉你](https://www.imsdn.cn/)
 
 #### 图片下载
@@ -26,27 +36,44 @@
 #### 时事
 
 - [爱思想](http://www.aisixiang.com/)
+- [今日热榜](https://tophub.today/)
 
 #### 音效下载
 
 - [爱给](http://www.aigei.com/)
+- [LOOKAE](https://www.lookae.com/titanomachy/)
 
 #### 设计类网站
 
-- [字体天下](http://www.fonts.net.cn/)
-- [免费字体下载](https://fontsup.com/)
+> 配色
+
 - [LOLCOLORS](https://www.webdesignrankings.com/resources/lolcolors/)
 - [Adobe Color](https://color.adobe.com/zh/explore/newest/?page=2)
 - [flatuicolors](https://flatuicolors.com/)
 - [灵感配色](https://www.colorsandfonts.com/index.html)
 - [中国色](http://zhongguose.com/)
-- [在线抠图](https://www.remove.bg/zh)
+- [自动配色](https://mycolor.space/)
+- [预设颜色组](https://vanschneider.com/colors)
+
+> fonts
+
+- [字体天下](http://www.fonts.net.cn/)
+- [免费字体下载](https://fontsup.com/)
+- [自由字体](https://ziyouziti.com/)
+- [字魂](https://izihun.com/)
+
+> icons
+
 - [设计工具时光机](https://prototypr.io/time-machine/)
 - [阿里巴巴矢量图标库](https://www.iconfont.cn/)
 - [免费图标库](https://iconstore.co/)
 - [Font Awesome](http://www.fontawesome.com.cn/faicons/)
 - [插画素材网](https://mixkit.co/art/)
 - [UI](https://www.uistore.design/)
+
+> 其他
+
+- [在线抠图](https://www.remove.bg/zh)
 - [设计资源](https://www.ls.graphics/free)
 - [2.5d 风格矢量素材库](https://isoflat.com/)
 - [流体模拟](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
@@ -59,6 +86,8 @@
 - [ARTING365](http://tu.arting365.com/category/41)
 - [FOTOSEARCH](https://www.fotosearch.com/)
 - [Wallroom](https://wallroom.io/)
+- [P 站](https://www.pixiv.net/)
+- [Artstation](https://www.artstation.com/)
 
 #### 教程类
 
@@ -123,6 +152,7 @@
 - [自动生成虚拟人物](https://www.thiswaifudoesnotexist.net/)
 - [文字识别](https://github.com/PaddlePaddle/PaddleOCR)
 - [KSFramework 游戏开发框架](https://github.com/mr-kelly/KSFramework)
+- [autheliago 语言开发的登录验证](https://github.com/authelia/authelia)
 
 > 深度学习
 
@@ -156,9 +186,6 @@
 - [habitica](https://habitica.com/)
 - [Cold Turkey](https://getcoldturkey.com/)
 - [快速导航](http://navi.chenqiwei.com/)
-- [Carbon](https://carbon.now.sh/)
-- [BrowserFrame](https://browserframe.com/)
-- [Utools](https://www.u.tools/download.html)
 
 #### css3 工具
 
@@ -201,29 +228,17 @@
 - [流星游戏加速器](https://www.liuxing.com)
 - [奇妙加速器](https://www.qimiao.com)
 
-#### 其他
+#### 创作类
 
-- [如何做任何事](https://www.wikihow.com/)
-- [网站收录](http://lackar.com/aa/)
-- [邮箱隐私泄露查询](https://monitor.firefox.com/)
-- [动物头部骨骼比例](https://x6ud.github.io/#/)
-- [在线代码编辑](https://codepen.io)
-- [云服务器](https://billing.virmach.com)
-- [P 站](https://www.pixiv.net/)
-- [Artstation](https://www.artstation.com/)
-- [js 在线运行](https://www.sojson.com/)
-- [Postman](https://www.postman.com/downloads/)
-- [Codesandbox](https://codesandbox.io/dashboard/recent)
-- [Codepen](https://codepen.io/)
-- [Chromestore](http://www.chromestore.cn/2018/09/18/sourcegraph/)
-- [代码自动生成文档](https://github.com/YeDaxia/JApiDocs)
-- [云编辑器搭建](https://github.com/cdr/code-server/blob/master/doc/guide.md)
+> 在线编辑
+
 - [在线流程图](https://c.runoob.com/more/shapefly-diagram/#)
-- [解压缩软件](http://www.bandizip.com/)
-- [临时邮箱](http://24mail.chacuo.net/)
-- [临时接收手机验证码](www.materialtools.com/)
+- [js 在线运行](https://www.sojson.com/)
+- [代码自动生成文档](https://github.com/YeDaxia/JApiDocs)
 - [文字生成字符](http://patorjk.com/software/taag)
 - [在线图片转换](https://jinaconvert.com/cn/convert-to-ico.php)
+- [代码块生成图片](https://carbon.now.sh/)
+- [网页快速生成截图](https://browserframe.com/)
 
 > 视频创作类
 
@@ -232,12 +247,34 @@
 - [视频片头动画下载](https://panzoid.com/)
 - [音频下载](https://www.ear0.com/)
 - [pr 模板下载](https://mixkit.co/)
-- [自由字体](https://ziyouziti.com/)
 
 > 音乐创作
 
 - [Amplesound](https://www.amplesound.net/en/download.asp)
 - [Spicy Guitar](http://www.dontcrack.com/freeware/downloads.php/id/5221/software/Spicy-Guitar/)
 - [Keyzone Classic](http://www.vst4free.com/free_vst.php?id=2848)
+
+#### 其他
+
+> 验证
+
+- [临时邮箱](http://24mail.chacuo.net/)
+- [临时接收手机验证码](www.materialtools.com/)
+- [邮箱隐私泄露查询](https://monitor.firefox.com/)
+
+> 软件类
+
+- [Postman](https://www.postman.com/downloads/)
+- [Chromestore](http://www.chromestore.cn/2018/09/18/sourcegraph/)
+- [如何做任何事](https://www.wikihow.com/)
+- [网站收录](http://lackar.com/aa/)
+- [动物头部骨骼比例](https://x6ud.github.io/#/)
+- [云服务器](https://billing.virmach.com)
+- [解压缩软件](http://www.bandizip.com/)
+- [Utools](https://www.u.tools/download.html)
+- [XDM](https://subhra74.github.io/xdm/#downloads)
+- [FDM](https://www.freedownloadmanager.org/zh/)
+- [Chrome 离线插件下载](https://crxdl.com/)
+- [脚本](https://greasyfork.org/zh-CN/scripts)
 
 * <a href="#">返回顶部</a>

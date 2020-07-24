@@ -4,6 +4,7 @@
 
 ## **Python 常用**
 
+- [python 知识体系](Python/python3知识体系.md)
 - [python 打包](Python/python打包.md)
 - [数据挖掘工具](Python/数据挖掘工具.md)
 

@@ -5,6 +5,7 @@
 - [自定义开机 LOGO](system-optimization/自定义开机LOGO.md)
 - [自定义 Windows 桌面主题](system-optimization/自定义Windows桌面主题.md)
 - [游戏加速和代理使用](system-optimization/Netch游戏加速代理使用.md)
+- [Chrome 扩展插件安装](system-optimization/Chrome安装扩展插件.md)
 
 ## **外设配置**
 
