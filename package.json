@@ -1,15 +1,14 @@
 {
-  "name": "ArticleManagementSystem",
+  "name": "AMS",
   "version": "1.0.0",
   "description": "Personal file management system",
   "main": "index.html",
   "dependencies": {
     "docsify": "4.11.4",
-    "node.js": "12.18.0",
+    "node.js": "14.5.0",
     "git": "2.27.0",
     "gitalk": "1.6.2",
-    "tinydate": "1.2.0",
-    "vue": "3.0.0-beta.5"
+    "vue": "2.6.1"
   },
   "scripts": {
     "start": "parcel index.html --open",
@@ -17,9 +16,6 @@
   },
   "devDependencies": {
     "parcel-bundler": "^1.6.1"
-  },
-  "engines": {
-    "node": ">= 8.16.0"
   },
   "keywords": ["docsify", "Static", "css", "AMS", "Lightweight"],
   "author": "Willasas",
