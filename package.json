@@ -1,11 +1,13 @@
 {
-  "name": "docsify-demo",
+  "name": "ArticleManagementSystem",
   "version": "1.0.0",
-  "description": "Simple Parcel Sandbox",
+  "description": "Personal file management system",
   "main": "index.html",
   "dependencies": {
-    "docsify": "4.11.3",
-    "node.js": "0.0.1-security",
+    "docsify": "4.11.4",
+    "node.js": "12.18.0",
+    "git": "2.27.0",
+    "gitalk": "1.6.2",
     "tinydate": "1.2.0",
     "vue": "3.0.0-beta.5"
   },
@@ -16,5 +18,10 @@
   "devDependencies": {
     "parcel-bundler": "^1.6.1"
   },
-  "keywords": ["docsify", "Static", "css", "AMS", "Lightweight"]
+  "engines": {
+    "node": ">= 8.16.0"
+  },
+  "keywords": ["docsify", "Static", "css", "AMS", "Lightweight"],
+  "author": "Willasas",
+  "license": "ISC"
 }
