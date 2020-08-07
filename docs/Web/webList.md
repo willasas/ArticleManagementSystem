@@ -22,6 +22,7 @@
 - [Codesandbox](https://codesandbox.io/dashboard/recent)
 - [Codepen](https://codepen.io/)
 - [云编辑器搭建](https://github.com/cdr/code-server/blob/master/doc/guide.md)
+- [cdn 在线生成](https://www.jsdelivr.com/)
 
 #### 系统镜像下载
 
@@ -32,6 +33,13 @@
 - [pexels](https://www.pexels.com/)
 - [pixabay](https://pixabay.com/)
 - [unsplash](https://unsplash.com/)
+- [pxhere](https://pxhere.com/)
+- [png 透明素材](http://pngimg.com/)
+- [openfootage](https://www.openfootage.net/)
+- [vidsplay](https://www.vidsplay.com/)
+- [orangehd](http://www.orangehd.com/)
+- [splitshire](https://www.splitshire.com/)
+- [ignitemotion](https://www.ignitemotion.com/)
 
 #### 时事
 
@@ -42,6 +50,12 @@
 
 - [爱给](http://www.aigei.com/)
 - [LOOKAE](https://www.lookae.com/titanomachy/)
+- [耳聆网](https://www.ear0.com/)
+- [Freesound](https://freesound.org/)
+- [淘声网](https://www.tosound.com/search)
+- [looperman](https://www.looperman.com/)
+- [CCmixter](http://ccmixter.org/)
+- [gamesounds](https://gamesounds.xyz)
 
 #### 设计类网站
 
@@ -54,6 +68,7 @@
 - [中国色](http://zhongguose.com/)
 - [自动配色](https://mycolor.space/)
 - [预设颜色组](https://vanschneider.com/colors)
+- [colordrop](https://www.colordrop.io/)
 
 > fonts
 
@@ -247,6 +262,13 @@
 - [视频片头动画下载](https://panzoid.com/)
 - [音频下载](https://www.ear0.com/)
 - [pr 模板下载](https://mixkit.co/)
+- [h5 视频插件](https://github.com/bytedance/xgplayer)
+- [videezy](https://www.videezy.com/)
+- [国外导航](https://www.egouz.com/)
+- [mazwai](http://mazwai.com/)
+- [monzoom](https://www.monzoom.com/)
+- [Distill beta](https://wedistill.io/)
+- [footagecrate](https://footagecrate.com/)
 
 > 音乐创作
 
@@ -261,6 +283,7 @@
 - [临时邮箱](http://24mail.chacuo.net/)
 - [临时接收手机验证码](www.materialtools.com/)
 - [邮箱隐私泄露查询](https://monitor.firefox.com/)
+- [邮箱泄露查询](https://haveibeenpwned.com/)
 
 > 软件类
 
