@@ -1,6 +1,10 @@
 ## **容器官网**
 
 - [docker 官网](https://docs.docker.com/)
+- [docker 官方博客](https://www.docker.com/blog/)
+- [docker 官方文档](https://docs.docker.com/)
+- [官方中国加速器](https://registry.docker-cn.com)
+- [阿里云的加速器](https://help.aliyun.com/document_detail/60750.html)
 - [kubernetes 官网](https://kubernetes.io/docs/home/)
 
 ## **docker**
@@ -20,3 +24,11 @@
 - [kubernetes 介绍](Container/kubernetes介绍.md)
 
 ## **容器实战**
+
+- [docker 安装 centOS](Container/docker安装centos.md)
+- [docker 安装 Nginx](Container/docker安装Nginx.md)
+- [docker 安装 Node.js](Container/docker安装Node.js.md)
+- [docker 安装 MySQL](Container/docker安装MySQL.md)
+- [docker 安装 Python](Container/docker安装Python.md)
+- [docker 安装 Redis](Container/docker安装Redis.md)
+- [docker 安装 MongDB](Container/docker安装MongDB.md)

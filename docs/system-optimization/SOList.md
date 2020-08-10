@@ -19,3 +19,4 @@
 
 - [Dos 操作](system-optimization/Dos命令.md)
 - [Windows Terminal 更新](system-optimization/Windows10命令行工具更新.md)
+- [OBS安装配置](system-optimization/obs配置.md)
