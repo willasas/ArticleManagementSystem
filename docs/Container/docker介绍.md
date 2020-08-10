@@ -4,8 +4,10 @@
 
 - Windows 10 x64 专业版(版本 2004)
 - 启用 Hyper-V 和容器 Windows 功能
+- VMware Workstation version > 10
 - [更新 WSL 2 Linux 内核](https://docs.microsoft.com/zh-cn/windows/wsl/wsl2-kernel)
 - [docker-machine 下载](https://github.com/docker/machine/releases)
+- [vmwareworkstation 驱动下载](https://github.com/pecigonzalo/docker-machine-vmwareworkstation/releases/)
 
 ## **步骤说明**
 
@@ -59,10 +61,14 @@ base=https://github.com/docker/machine/releases/download/v0.16.0 &&
   chmod +x /usr/local/bin/docker-machine
 ```
 
+- 下载最新版的 vm 驱动，然后将 docker-machine-driver-vmwareworkstation.exe 复制到 C:\Program Files\Docker\Docker\resources\bin 下：
+
+![vm驱动](..//img/ct_img/dk28.png)
+
 **7. docker-machine 使用,打开 Windows 的 powershell 工具**
 
 ```shell
-docker-machine create test1  #创建名为test1的docker虚拟机
+docker-machine create --driver=vmwareworkstation test1  #创建名为test1的docker虚拟机,--driver:指定用来创建机器的驱动类型
 docker-machine ls  #查看所有的docker虚拟机
 docker-machine ip test1  #查看机器的 ip
 docker-machine start test1 #启动机器
