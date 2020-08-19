@@ -16,4 +16,5 @@
 
   - [Indie game](Web/独立游戏制作.md)
   - [Tools](Web/webList.md)
+  - [Model](Web/model.md)
   - <a href="nav/amslogo.html">Logo</a>
