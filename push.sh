@@ -3,5 +3,5 @@ set -e
 git init
 git add -A
 git commit -m 'deploy'
-git push -f https://@github.com/willasas/ArticleManagementSystem.git dev
+git push -f https://@github.com/willasas/ArticleManagementSystem.git master
 cd -
