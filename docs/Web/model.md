@@ -2,13 +2,6 @@
 title: 模板
 date: 2020-08-19 10:50:00
 author: William
-img: ../img/mo_img/1.png #文章特征图，推荐使用图床（腾讯云、七牛云、又拍云等）来作为图片路径
-top: false #文章是置顶
-cover: false #是否加入到首页轮播图中
-#coverImg: ../img/mo_img/2.jpg #轮播的图片路径，若无，则使用文章的特殊图片
-#password: 8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
-toc: false
-mathjax: false
 summary: 这是一个模板示例
 categories: Markdown #文章分类，只建议一篇文章一个分类
 tags: #标签，可以多个

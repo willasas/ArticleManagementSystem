@@ -1,10 +1,63 @@
-# 常用网站
+---
+title: 常用网站
+date: 2020-08-22 11:22:00
+author: William
+toc: true #是否启用目录
+summary: 常用网站汇总
+categories: Website-summary #文章分类，只建议一篇文章一个分类
+tags: #标签，可以多个
+  - website
+---
 
-#### 系统镜像下载
+### 设计类网站
 
-- [我告诉你](https://www.imsdn.cn/)
+**1. 配色类网站**
 
-#### 图片下载
+- [LOLCOLORS](https://www.webdesignrankings.com/resources/lolcolors/)
+- [Adobe Color](https://color.adobe.com/zh/explore/newest/?page=2)
+- [flatuicolors](https://flatuicolors.com/)
+- [灵感配色](https://www.colorsandfonts.com/index.html)
+- [中国色](http://zhongguose.com/)
+- [自动配色](https://mycolor.space/)
+- [预设颜色组](https://vanschneider.com/colors)
+- [colordrop](https://www.colordrop.io/)
+
+**2. fonts 类网站**
+
+- [字体天下](http://www.fonts.net.cn/)
+- [免费字体下载](https://fontsup.com/)
+- [自由字体](https://ziyouziti.com/)
+- [字魂](https://izihun.com/)
+
+**3. icons 类网站**
+
+- [设计工具时光机](https://prototypr.io/time-machine/)
+- [阿里巴巴矢量图标库](https://www.iconfont.cn/)
+- [免费图标库](https://iconstore.co/)
+- [Font Awesome](http://www.fontawesome.com.cn/faicons/)
+- [插画素材网](https://mixkit.co/art/)
+- [UI](https://www.uistore.design/)
+
+**4. 其他类网站**
+
+- [在线抠图](https://www.remove.bg/zh)
+- [设计资源](https://www.ls.graphics/free)
+- [2.5d 风格矢量素材库](https://isoflat.com/)
+- [流体模拟](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
+- [jquery 官网](http://www.jq22.com/)
+- [免费商用矢量插画素材](https://iradesign.io/)
+- [404 页面插画素材库](https://www.kapwing.com/404-illustrations)
+- [涂鸦王国](https://gracg.com/)
+- [EGOUZ](http://www.egouz.com/pics/vector/)
+- [画易网](http://art.cgart.cn/)
+- [ARTING365](http://tu.arting365.com/category/41)
+- [FOTOSEARCH](https://www.fotosearch.com/)
+- [Wallroom](https://wallroom.io/)
+- [P 站](https://www.pixiv.net/)
+- [Artstation](https://www.artstation.com/)
+- [Method](https://method.ac/)
+
+**5. 图片类下载网站**
 
 - [pexels](https://www.pexels.com/)
 - [pixabay](https://pixabay.com/)
@@ -17,12 +70,50 @@
 - [splitshire](https://www.splitshire.com/)
 - [ignitemotion](https://www.ignitemotion.com/)
 
-#### 时事
+### 创作类网站
 
-- [爱思想](http://www.aisixiang.com/)
-- [今日热榜](https://tophub.today/)
+**1. 在线编辑类网站**
 
-#### 音效下载
+- [在线流程图](https://c.runoob.com/more/shapefly-diagram/#)
+- [js 在线运行](https://www.sojson.com/)
+- [代码自动生成文档](https://github.com/YeDaxia/JApiDocs)
+- [文字生成字符](http://patorjk.com/software/taag)
+- [在线图片转换](https://jinaconvert.com/cn/convert-to-ico.php)
+- [代码块生成图片](https://carbon.now.sh/)
+- [网页快速生成截图](https://browserframe.com/)
+
+**2. 视频创作类网站**
+
+- [在线表格转换格式](https://tableconvert.com/)
+- [爱资料工具](https://www.toolnb.com/)
+- [视频片头动画下载](https://panzoid.com/)
+- [音频下载](https://www.ear0.com/)
+- [pr 模板下载](https://mixkit.co/)
+- [h5 视频插件](https://github.com/bytedance/xgplayer)
+- [videezy](https://www.videezy.com/)
+- [国外导航](https://www.egouz.com/)
+- [mazwai](http://mazwai.com/)
+- [monzoom](https://www.monzoom.com/)
+- [Distill beta](https://wedistill.io/)
+- [footagecrate](https://footagecrate.com/)
+- [storyboarder](https://github.com/wonderunit/storyboarder)
+- [maya](https://www.autodesk.com.cn/education/free-software/maya)
+- [Marvelous Designer](https://www.marvelousdesigner.com/)
+
+**3. 三维跟踪类**
+
+- [syntheyes](https://www.ssontech.com/download.html)
+- [pftrack](https://www.thepixelfarm.co.uk/pftrack/)
+- [boujou](https://www.vicon.com/software/boujou/?section=downloads)
+
+**4. 音乐创作类网站**
+
+- [Amplesound](https://www.amplesound.net/en/download.asp)
+- [Spicy Guitar](http://www.dontcrack.com/freeware/downloads.php/id/5221/software/Spicy-Guitar/)
+- [Keyzone Classic](http://www.vst4free.com/free_vst.php?id=2848)
+- [x studio](https://studiovoice.msxiaobing.com/)
+
+**5. 音效下载类网站**
 
 - [爱给](http://www.aigei.com/)
 - [LOOKAE](https://www.lookae.com/titanomachy/)
@@ -33,14 +124,108 @@
 - [CCmixter](http://ccmixter.org/)
 - [gamesounds](https://gamesounds.xyz)
 
-#### 教程类
+### 其他类网站
+
+**1. 验证类**
+
+- [临时邮箱](http://24mail.chacuo.net/)
+- [临时接收手机验证码](www.materialtools.com/)
+- [邮箱隐私泄露查询](https://monitor.firefox.com/)
+- [邮箱泄露查询](https://haveibeenpwned.com/)
+
+**2. 软件类**
+
+- [Postman](https://www.postman.com/downloads/)
+- [Chromestore](http://www.chromestore.cn/2018/09/18/sourcegraph/)
+- [如何做任何事](https://www.wikihow.com/)
+- [网站收录](http://lackar.com/aa/)
+- [动物头部骨骼比例](https://x6ud.github.io/#/)
+- [云服务器](https://billing.virmach.com)
+- [解压缩软件](http://www.bandizip.com/)
+- [Utools](https://www.u.tools/download.html)
+- [XDM](https://subhra74.github.io/xdm/#downloads)
+- [FDM](https://www.freedownloadmanager.org/zh/)
+- [Chrome 离线插件下载](https://crxdl.com/)
+- [脚本](https://greasyfork.org/zh-CN/scripts)
+- [Dust3D](https://dust3d.org/)
+
+### 加速器类网站
+
+- [蓝泡网游加速器](https://www.lpjsq.cn/)
+- [流星游戏加速器](https://www.liuxing.com)
+- [奇妙加速器](https://www.qimiao.com)
+
+### 引擎类网站
+
+**1. 搜索引擎类网站**
+
+- [goobe](https://goobe.io)
+- [秘迹搜索](https://m.mijisou.com/)
+- [钟馗之眼](https://www.zoomeye.org/)
+- [罗马盘](https://www.luomapan.com/)
+- [yandex 搜索](https://yandex.com/)
+- [AI 学习引擎](https://magi.com/)
+- [无解搜](http://www.wujiesou.com/)
+
+**2. 游戏引擎类网站**
+
+- [唤境](https://www.evkworld.com/?c=600010&sc=600033)
+- [Egret Engine](https://docs.egret.com/engine)
+- [GameLooper](https://store.steampowered.com/search/?developer=GameLooper)
+- [Kodu](https://www.kodugamelab.com/)
+
+### 兼职类网站
+
+**1. 接单平台**
+
+- [程序员客栈](https://www.proginn.com/)
+- [猿急送](https://www.yuanjisong.com/)
+- [码市](https://mart.coding.net/)
+- [upwork](https://www.upwork.com/)
+- [freelancer](https://www.freelancer.com/)
+- [dribbble](https://dribbble.com/)
+- [stackoverflow](https://stackoverflow.com/)
+- [99designs](https://99designs.com/)
+- [remoteok](https://remoteok.io/open)
+- [angel](https://angel.co/company/angellist)
+- [华为终端云服务](https://developer.huawei.com/consumer/cn/hms/)
+
+**2. 在线代码编辑**
+
+- [Codesandbox](https://codesandbox.io/dashboard/recent)
+- [Codepen](https://codepen.io/)
+- [cdn 在线生成](https://www.jsdelivr.com/)
+- [imgchr 在线图床](https://imgchr.com/)
+
+### 系统镜像下载
+
+- [我告诉你](https://www.imsdn.cn/)
+
+### 时事
+
+- [爱思想](http://www.aisixiang.com/)
+- [今日热榜](https://tophub.today/)
+
+### 教程类
 
 - [python 教程](https://docs.microsoft.com/zh-cn/windows/python/)
 - [W3school](https://www.w3school.com.cn/)
 - [Json 在线解析及格式化验证](https://www.json.cn/)
 - [Web CS142 项目](http://web.stanford.edu/class/cs142/projects.html)
 
-#### 软件下载类网站
+### 电源网站
+
+- [电影推荐](http://www.mvcat.com/)
+- [字幕下载](https://assrt.net/)
+
+### 天梯图
+
+- [手机 CPU 性能天梯图](http://www.mydrivers.com/zhuanti/tianti/01/index.html)
+- [桌面 CPU 性能天梯图](http://www.mydrivers.com/zhuanti/tianti/cpu/index.html)
+- [桌面显卡性能天梯图](http://www.mydrivers.com/zhuanti/tianti/gpu/index.html)
+
+
+### 软件下载类网站
 
 - [盒子部落](https://www.hezibuluo.com/)
 - [模拟黑客](http://geektyper.com/shield/)
@@ -58,11 +243,11 @@
 - [高精度自动建模](https://www.capturingreality.com/)
 - [3d animation](https://cascadeur.com/download)
 
-#### 特效源码
+### 特效源码
 
 - [GALLERY](https://gallery.echartsjs.com/explore.html#sort=rank~timeframe=all~author=all)
 
-#### GitHub 相关
+### GitHub 相关资源网站
 
 - [幻灯片插件](https://github.com/alvarotrigo/pagePiling.js)
 - [一套完整的学习手册](https://github.com/kevingo/coding-interview-university-zh-tw/blob/master/translations/README-cn.md)
@@ -115,7 +300,7 @@
 - [Cold Turkey](https://getcoldturkey.com/)
 - [快速导航](http://navi.chenqiwei.com/)
 
-#### css3 工具
+### css3 工具类网站
 
 - <a href="http://css3pie.com/" title="使用CSS3 Pie可以让IE6至IE8版本实现大多数的CSS3修饰特性，如圆角、阴影、渐变等等">CSS3 Pie</a>
 - <a href="https://css3clickchart.com/" title="CSS3效果演示，提供了示例代码">CSS3 Click Chart</a>
@@ -138,16 +323,5 @@
 - <a href="https://github.com/maxbeier/text-spinners" title="纯文本，仅限 CSS，字体独立，内联加载指示器。">text-spinners</a>
 - <a href="https://github.com/LunarLogic/auroral" title="动画渐变背景">Auroral</a>
 - <a href="https://eliortabeka.github.io/tootik/" title="纯CSS Tooltips工具提示特效库">Tootik</a>
-
-#### MV
-
-- [电影推荐](http://www.mvcat.com/)
-- [字幕下载](https://assrt.net/)
-
-#### 天梯图
-
-- [手机 CPU 性能天梯图](http://www.mydrivers.com/zhuanti/tianti/01/index.html)
-- [桌面 CPU 性能天梯图](http://www.mydrivers.com/zhuanti/tianti/cpu/index.html)
-- [桌面显卡性能天梯图](http://www.mydrivers.com/zhuanti/tianti/gpu/index.html)
 
 * <a href="#">返回顶部</a>
