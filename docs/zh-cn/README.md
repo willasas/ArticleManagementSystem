@@ -19,7 +19,7 @@
 
 ## 社区
 
-用户和开发团队通常使用<a href="#">Gitalk</a>.
+用户和开发团队通常使用<a href="https://gitter.im/WaresWebsite/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link">Gitter</a>.
 
 ## 其他
 

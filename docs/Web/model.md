@@ -1,16 +1,3 @@
----
-title: 模板
-date: 2020-08-19 10:50:00
-author: William
-summary: 这是一个模板示例
-categories: Markdown #文章分类，只建议一篇文章一个分类
-tags: #标签，可以多个
-  - Image
-  - Markdown
-  - HTML
-  - Table
----
-
 ## **环境说明**
 
 #### 准备工作

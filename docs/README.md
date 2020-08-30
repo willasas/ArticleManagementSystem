@@ -19,7 +19,7 @@ It is a lightweight static document management system based on docsify and nodej
 
 ## Community
 
-Users and the development team are usually in the <a href="#">Gitalk</a>.
+Users and the development team are usually in the [![Gitter](https://badges.gitter.im/WaresWebsite/community.svg)](https://gitter.im/WaresWebsite/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ## Others
 

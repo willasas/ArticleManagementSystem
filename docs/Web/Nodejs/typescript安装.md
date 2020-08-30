@@ -28,7 +28,7 @@ npm install typescript -g
 tsc
 ```
 
-![安装测试](../../img/w_img/ts1.jpg)
+![安装测试](../../img/w_img/ts1.png)
 
 **4. 创建项目文件夹，并创建一个.ts 结尾的文件，编写如下代码：**
 
@@ -57,6 +57,6 @@ npm install -g ts-node  #全局安装ts-node
 ts-node test.ts   #运行，test.ts为文件名
 ```
 
-![测试程序](../../img/w_img/ts2.jpg)
+![测试程序](../../img/w_img/ts2.png)
 
 #### 注意事项
