@@ -1,14 +1,3 @@
----
-title: 常用网站
-date: 2020-08-22 11:22:00
-author: William
-toc: true #是否启用目录
-summary: 常用网站汇总
-categories: Website-summary #文章分类，只建议一篇文章一个分类
-tags: #标签，可以多个
-  - website
----
-
 ### 设计类网站
 
 **1. 配色类网站**
@@ -194,6 +183,7 @@ tags: #标签，可以多个
 
 - [Codesandbox](https://codesandbox.io/dashboard/recent)
 - [Codepen](https://codepen.io/)
+- [VS code](https://github.com/features/codespaces)
 - [cdn 在线生成](https://www.jsdelivr.com/)
 - [imgchr 在线图床](https://imgchr.com/)
 
@@ -223,7 +213,6 @@ tags: #标签，可以多个
 - [手机 CPU 性能天梯图](http://www.mydrivers.com/zhuanti/tianti/01/index.html)
 - [桌面 CPU 性能天梯图](http://www.mydrivers.com/zhuanti/tianti/cpu/index.html)
 - [桌面显卡性能天梯图](http://www.mydrivers.com/zhuanti/tianti/gpu/index.html)
-
 
 ### 软件下载类网站
 

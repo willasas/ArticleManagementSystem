@@ -1,10 +1,5 @@
 <!--通过缩进来创建菜单的子列表-->
 
-- Language
-
-  - [En](/)
-  - [chinese](/zh-cn/)
-
 - Getting started
 
   - [Quick start](quickstart.md)
@@ -14,7 +9,12 @@
 
 - Configuration
 
-  - [Indie game](Web/独立游戏制作.md)
+  - [Indie game](Web/gameMaking.md)
   - [Tools](Web/webList.md)
   - [Model](Web/model.md)
   - <a href="nav/amslogo.html">Logo</a>
+
+- translations
+
+  - [En](/)
+  - [chinese](/zh-cn/)

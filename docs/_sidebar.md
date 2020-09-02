@@ -1,8 +1,10 @@
 - [Home](/)
 - [Guide](guide.md)
-- [AI](AI/aiList.md)
-- [BlockChain](Block-chain/区块链是什么.md)
-- [Database](Database/dbList.md)
+
+- AI
+
+  - [AI](AI/aiList.md)
+  - [Database](Database/dbList.md)
 
 - Linux
 
@@ -11,35 +13,35 @@
   - [Ubentu](Linux/Ubentu/ubentuList.md)
   - [Deepin](Linux/Deepin/deepinList.md)
 
-- [Python](Python/pythonList.md)
+- [Python](Python/pyList.md)
 - [GO](Go/goList.md)
 - [Container](Container/ctList.md)
 - [windows](system-optimization/SOList.md)
 
 - IOT
 
-  - [BadUSB](IOT/badUSB.md)
-  - [ESP8266](IOT/wifi干扰器.md)
-  - [DIY 电脑实时监控小屏幕](IOT/实时监控小屏幕.md)
+  - [IOT](IOT/IotList.md)
 
 - Hardware
 
-  - [硬件](Hardware/hwList.md)
+  - [Hardware](Hardware/hwList.md)
 
 - Web
 
-  - [Build_a_blog](Web/个人博客搭建.md)
-  - [Nodejs](Web/Nodejs/node_js安装教程.md)
-  - [typescript](Web/Nodejs/typescript安装.md)
-  - [vue](Web/Vue/VList.md)
+  - [BlogBuild](Web/docsBuild.md)
+  - [Nodejs](Web/Nodejs/node_jsStart.md)
+  - [Typescript](Web/Nodejs/typescriptStart.md)
+  - [Vue](Web/Vue/VList.md)
   - [VsCode](Web/VsCode/VCList.md)
   - [Git](Web/Git/GitList.md)
   - [CloudServers](Web/CloudServers/CloudList.md)
   - [CodeStandards](Web/CodeStandards/CodeList.md)
-  - [Weblearning](Web/前端完整学习路线.md)
+  - [Weblearning](Web/Frontlearning.md)
 
 - UI design
-  - [Design pattern](UI/设计模式.md)
-  - [Matching](UI/配色.md)
-  - [Matching system](UI/配色方法.md)
-  - [CMYK](UI/色彩模式.md)
+
+  - [Design pattern](UI/designPattern.md)
+  - [Matching](UI/matching.md)
+  - [Matching system](UI/matchingMethod.md)
+  - [CMYK](UI/colorMode.md)
+  - [3D](3D/3dList.md)
