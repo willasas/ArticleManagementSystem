@@ -37,6 +37,7 @@
   - [CloudServers](Web/CloudServers/CloudList.md)
   - [CodeStandards](Web/CodeStandards/CodeList.md)
   - [Weblearning](Web/Frontlearning.md)
+  - [WebServer](Server/SList.md)
 
 - UI design
 

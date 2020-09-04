@@ -88,6 +88,7 @@
 - [storyboarder](https://github.com/wonderunit/storyboarder)
 - [maya](https://www.autodesk.com.cn/education/free-software/maya)
 - [Marvelous Designer](https://www.marvelousdesigner.com/)
+- [跨平台翻译工具](https://poedit.net/download)
 
 **3. 三维跟踪类**
 
@@ -137,6 +138,7 @@
 - [Chrome 离线插件下载](https://crxdl.com/)
 - [脚本](https://greasyfork.org/zh-CN/scripts)
 - [Dust3D](https://dust3d.org/)
+- [30secondsofcode](https://www.30secondsofcode.org/)
 
 ### 加速器类网站
 

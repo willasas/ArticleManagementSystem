@@ -37,6 +37,7 @@
   - [云服务](Web/CloudServers/CloudList.md)
   - [代码规范](Web/CodeStandards/CodeList.md)
   - [前端学习路线](Web/Frontlearning.md)
+  - [web 服务器](Server/SList.md)
 
 - UI 设计
 

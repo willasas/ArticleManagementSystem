@@ -4,6 +4,7 @@
 
 - [blendermarket](https://www.blendermarket.com/)
 - [community](https://blender.community/)
+- [blender 中国](https://www.blendercn.org/)
 - [Photographer](https://gumroad.com/l/FWQf)
 - [Building tools add-on](https://ranjian0.github.io/building_t)
 - [Extra Lights](https://github.com/jlampel/extra_lights)
@@ -18,10 +19,10 @@
 - [Screencast keys](https://github.com/nutti/Screencast-Keys)
 - [Modular tree add-on](https://github.com/MaximeHerpin/modular_tree)
 
-**2. 其他类网站**
+**2. 插件网站**
 
-- []()
-- []()
+- [灯光控件 Lumiere](https://github.com/clarkx/Lumiere-V0.3-for-2.8)
+- [管理骨骼层插件](https://github.com/Irmitya/bone_layer_manager)
 - []()
 
 **3. 其他类网站**
