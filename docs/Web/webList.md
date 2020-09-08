@@ -51,6 +51,8 @@
 - [pexels](https://www.pexels.com/)
 - [pixabay](https://pixabay.com/)
 - [unsplash](https://unsplash.com/)
+- [Foter](https://www.foter.com/)
+- [别样网](https://www.ssyer.com/)
 - [pxhere](https://pxhere.com/)
 - [png 透明素材](http://pngimg.com/)
 - [openfootage](https://www.openfootage.net/)

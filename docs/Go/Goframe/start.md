@@ -49,4 +49,38 @@ gf init GFProject #在当前目录生成一个示例的GF空框架项目，GFPro
 gf build GFProject
 ```
 
-**5. 111**
+**5. 配置 go mod 代理和 goroot 和 gopath**
+
+- 配置代理，打开 goland 编辑器，依次点击 File-》Settings-》GO-》Go Modules(vgo),配置如图：
+
+```
+# proxy可选值如下：
+https://goproxy.cn
+https://goproxy.io
+https://mirrors.aliyun.com/goproxy/
+```
+
+![配置代理](../../img/go_img/gf2.png)
+
+- 配置 GOROOT(go 的安装目录)和 GOPATH(go 项目在本地的开发环境的的项目根路径),依次点击 File-》Settings-》GO-》GOROOT/GOPATH,配置如图：
+
+![配置GOROOT](../../img/go_img/gf3.png)
+![配置GOPATH](../../img/go_img/gf4.png)
+
+- 配置完成后保存即可
+
+**6. 私有依赖管理**
+
+- 通过 GOPRIVATE 的方式设置私有包有效域名,以命令行方式（需要 Go v1.13 以上版本支持）
+
+```cmd
+export GOPROXY=https://goproxy.cn
+export GOPRIVATE=git.xxx.com
+CGO_ENABLED=0 GOOS=linux GOARCH=amd64 go build -o main main.go
+```
+
+- 在 Goland 中设置
+
+![配置私有依赖](../../img/go_img/gf5.png)
+
+#### 注意事项
