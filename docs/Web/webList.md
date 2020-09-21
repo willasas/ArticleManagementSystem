@@ -30,6 +30,10 @@
 **4. 其他类网站**
 
 - [在线抠图](https://www.remove.bg/zh)
+- [顽兔抠图](https://alidesign.taobao.com/work.htm#/iframe/wantoo)
+- [鹿班设计](https://luban.aliyun.com/)
+- [犸良](https://design.alipay.com/emotion/)
+- [阿里云地图](http://datav.aliyun.com/tools/atlas)
 - [设计资源](https://www.ls.graphics/free)
 - [2.5d 风格矢量素材库](https://isoflat.com/)
 - [流体模拟](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
@@ -131,6 +135,7 @@
 - [Chromestore](http://www.chromestore.cn/2018/09/18/sourcegraph/)
 - [如何做任何事](https://www.wikihow.com/)
 - [网站收录](http://lackar.com/aa/)
+- [图之典](http://tuzhidian.com/)
 - [动物头部骨骼比例](https://x6ud.github.io/#/)
 - [云服务器](https://billing.virmach.com)
 - [解压缩软件](http://www.bandizip.com/)
@@ -206,6 +211,16 @@
 - [W3school](https://www.w3school.com.cn/)
 - [Json 在线解析及格式化验证](https://www.json.cn/)
 - [Web CS142 项目](http://web.stanford.edu/class/cs142/projects.html)
+- [Codegym](https://codegym.cc/)
+- [Treehouse 推荐](https://teamtreehouse.com/)
+- [KhanAcademy 推荐](https://www.khanacademy.org/computing/computer-programming)
+- [Udemy](https://www.udemy.com/)
+- [Code4Startup 推荐](https://code4startup.com/)
+- [One Month](https://onemonth.com/)
+- [PluralSight 推荐](https://www.pluralsight.com/codeschool)
+- [Coursera 推荐](https://www.coursera.org/)
+- [Freecodecamp 推荐](https://www.freecodecamp.org/)
+- [Codewars 推荐](https://www.codewars.com/)
 
 ### 电源网站
 
