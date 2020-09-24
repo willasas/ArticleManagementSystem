@@ -9,7 +9,8 @@
 
 ### Mysql
 
-- [test1](Database/Mysql/Install.md)
+- [安装](Database/Mysql/Install.md)
+- [Mysql 规范](Database/Mysql/standard.md)
 
 ### Mongodb
 

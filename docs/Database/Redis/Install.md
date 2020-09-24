@@ -64,19 +64,22 @@ get myKey
 wget http://download.redis.io/releases/redis-6.0.6.tar.gz
 tar xzf redis-6.0.6.tar.gz
 cd redis-6.0.6
+sudo apt install make  #安装make
+sudo apt install gcc  #安装gcc,若编译出错先使用gcc -v查看是否安装了gcc
 make   #编译
 ```
 
 **2. 启动 Redis 服务**
 
 ```terminal
-src/redis-server
+cd src
+./redis-server
 ```
 
 **3. 查看 Redis 是否启动**
 
 ```terminal
-redis-cli
+./redis-cli
 ```
 
 **4. 使用测试客户端程序 redis-cli 和 redis 服务交互**

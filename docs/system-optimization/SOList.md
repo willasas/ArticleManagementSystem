@@ -7,6 +7,11 @@
 - [游戏加速和代理使用](system-optimization/Netch.md)
 - [Chrome 扩展插件安装](system-optimization/pluginsInstall.md)
 
+> Windows 仿 MAC 操作系统工具
+
+- [mydockfinder](https://www.mydockfinder.com/)
+- [MyFinder](https://download.cnet.com/MyFinder/3000-2248_4-10805173.html)
+
 ### 外设配置
 
 - [打印机配置](system-optimization/printerConfig.md)

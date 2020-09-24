@@ -26,6 +26,10 @@
 - [Font Awesome](http://www.fontawesome.com.cn/faicons/)
 - [插画素材网](https://mixkit.co/art/)
 - [UI](https://www.uistore.design/)
+- [ICONSVG](https://iconsvg.xyz)
+- [OpenMoji 免费表情符号库](https://www.openmoji.org)
+- [Share Icon 免费矢量素材图库](https://www.shareicon.net)
+- [Feathericons 极简 ICON 图标集](https://feathericons.com)
 
 **4. 其他类网站**
 
@@ -195,6 +199,7 @@
 - [VS code](https://github.com/features/codespaces)
 - [cdn 在线生成](https://www.jsdelivr.com/)
 - [imgchr 在线图床](https://imgchr.com/)
+- [JS Bin](https://jsbin.com)
 
 ### 系统镜像下载
 
@@ -313,7 +318,7 @@
 - <a href="http://css3pie.com/" title="使用CSS3 Pie可以让IE6至IE8版本实现大多数的CSS3修饰特性，如圆角、阴影、渐变等等">CSS3 Pie</a>
 - <a href="https://css3clickchart.com/" title="CSS3效果演示，提供了示例代码">CSS3 Click Chart</a>
 - <a href="http://css3please.com/" title="可修改代码，即时预览。非常方便。">CSS3 Please!</a>
-- <a href="https://css-tricks.com/css3-button-maker/" title="CSS3按钮制作工具">CSS3 Button Maker</a>
+- <a href="https://css-tricks.com/" title="一些关于 CSS 的技巧优秀的教程和技巧">CSS-Tricks</a>
 - <a href="http://css3menu.com/index.html" title="CSS3菜单制作工具">CSS3 Menu</a>
 - <a href="https://www.smashingmagazine.com/2009/07/css-3-cheat-sheet-pdf/" title="CSS3属性速查手册（PDF格式）">CSS3 Cheat Sheet</a>
 - <a href="http://www.css3.info/selectors-test/" title="CSS3选择器测试、介绍CSS3特性、效果预览的工具">CSS3.info</a>
@@ -331,5 +336,20 @@
 - <a href="https://github.com/maxbeier/text-spinners" title="纯文本，仅限 CSS，字体独立，内联加载指示器。">text-spinners</a>
 - <a href="https://github.com/LunarLogic/auroral" title="动画渐变背景">Auroral</a>
 - <a href="https://eliortabeka.github.io/tootik/" title="纯CSS Tooltips工具提示特效库">Tootik</a>
+- <a href="https://cssbattle.dev" title="一个挺有趣的竞争性游戏，一共有12个级别，需要你用 HTML和 CSS 100%还原它给出的页面，然后再尽量减少代码，你也可以查看全球的排行榜，看解决方案。">CSS Battle</a>
+- <a href="http://learnlayout.com" title="在线CSS布局学习，它会一步一步引导初学者学习 CSS 基础知识，在实践中帮助初学者掌握好 CSS 的布局知识，改善初学者对 CSS 的编写习惯和正确方法。">Learn CSS layout</a>
+- <a href="http://flexboxfroggy.com" title="一个引导式的学习 Flex 布局的游戏，用 flex 布局让青蛙跳到荷叶上就算完成，游戏里面几乎包含了所有常用的属性，这样学习起来很有趣嘞，形象好记忆，谁要是 Flex 布局还不熟的话，在这多练练。">Flexbox Froggy</a>
+- <a href="https://enjoycss.com" title="在线版的 CSS3 代码生成工具，基于可视化操作，能快速无编码的环境下调整网页效果和图形样式。就像是在本地使用 PS 或 AI 软件一样。">EnjoyCSS</a>
+- <a href="https://neumorphism.io" title="轻松实现新拟态效果，不仅可以修改颜色或填写色值，也可以修改尺寸、半径、距离、强度、模糊效果以及形状等参数，同时提供了CSS代码可以直接Copy。">Neumorphism</a>
+- <a href="https://uigradients.com" title="提供渐变色效果的站点，里面接近上百种渐变配色方案，可根据自己风格来选择搭配，能直接获得对应渐变配色的 CSS 代码。">uiGradients</a>
+
+### JS 工具类网站
+
+- <a href="https://www.jstips.co" title="每天一个 Javascript 小知识">JS Tips</a>
+- <a href="https://javascriptweekly.com" title="专门讲解 Javascript 的技术周刊">JSweekly</a>
+- <a href="https://cdnjs.com/libraries" title="CDNJS 为开发者提供最新的前端 Web 开发资源，免费使用，无使用限制。你可以直接在自己的网页上引用这些 JS 文件。进入 CDNJS 网站后，搜索你想要的资源库，找到后点击项目后方的[ Copy Script Tag] ，然后贴上就可以用了。目前 CDNJS 在 Web 前端的 CDN 服务中排名第二（第一名是 Google），性能出色。">CDNJS</a>
+- <a href="https://beautifulopen.com" title="收集各类卓越设计的开源项目，大到CMS内容管理系统，小到常用的Javascript库，适合网站开发的用户使用。">Beautiful Open</a>
+- <a href="https://www.javascript.fun" title="一个集合当下最流行的 JavaScript 代码库，显示流行排行，开发者可以轻松的找到想要最新的代码插件、工具和博客。">JavaScript Fun</a>
+- <a href="https://tympanus.net" title="发表技术文章和网页教程，提供经验，少踩坑，资源丰富很丰富，很多优秀的技术都是从这里来的。">Codrops</a>
 
 * <a href="#">返回顶部</a>
