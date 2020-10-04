@@ -30,7 +30,7 @@
 
   - [文档博客搭建](Web/docsBuild.md)
   - [Nodejs 使用](Web/Nodejs/node_jsStart.md)
-  - [Typescript 使用](Web/Nodejs/typescriptStart.md)
+  - [Typescript 使用](Web/Typescript/TSList.md)
   - [Vue 使用](Web/Vue/VList.md)
   - [VsCode 使用](Web/VsCode/VCList.md)
   - [Git 使用](Web/Git/GitList.md)

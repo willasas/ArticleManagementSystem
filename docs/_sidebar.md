@@ -30,7 +30,7 @@
 
   - [BlogBuild](Web/docsBuild.md)
   - [Nodejs](Web/Nodejs/node_jsStart.md)
-  - [Typescript](Web/Nodejs/typescriptStart.md)
+  - [Typescript](Web/Typescript/TSList.md)
   - [Vue](Web/Vue/VList.md)
   - [VsCode](Web/VsCode/VCList.md)
   - [Git](Web/Git/GitList.md)

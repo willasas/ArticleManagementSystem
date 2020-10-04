@@ -32,10 +32,10 @@ tsc
 
 **4. 创建项目文件夹，并创建一个.ts 结尾的文件，编写如下代码：**
 
-```@ts
-function SayHello(){
-  let web: string = "Hello world"
-  console.log(web)
+```ts
+function SayHello() {
+	let web: string = 'Hello world'
+	console.log(web)
 }
 
 SayHello()
@@ -50,7 +50,7 @@ tsc test.ts
 node test.js
 ```
 
-- 使用 ts-bode 插件，实现 ts 文件自动转换为 js 文件，安装方式如下：
+- 使用 ts-node 插件，实现 ts 文件自动转换为 js 文件，安装方式如下：
 
 ```@terminal
 npm install -g ts-node  #全局安装ts-node
