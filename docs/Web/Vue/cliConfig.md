@@ -3,7 +3,7 @@
 #### 准备工作
 
 - node.js version > 8.9
-- vue.js
+- @vue/cli 4.5.6
 - [vue-cli 官网](https://github.com/vuejs/vue-cli)
 - [RAP2 接口管理平台官网](http://rap2.taobao.org/)
 
@@ -39,20 +39,86 @@ vue init webpack test  # 通过webpack生成项目
 
 ```shell
 vue create clitest  #创建一个名为clitest的项目
-vue ui  #以图形化界面创建和管理项目
-vue add eslint  #在现有的项目中安装插件(eslint)
+vue ui  #以图形化界面创建和管理项目（可选）
+vue add eslint  #在现有的项目中安装插件(eslint)（可选）
 ```
 
-**4. 运行项目**
+- 若使用vue create命令配置项选择如下：
+
+```
+? Check the features needed for your project: (Press <space> to select, <a> to toggle all, <i> to invert selection)
+>(*) Choose Vue version
+ (*) Babel
+ (*) TypeScript
+ ( ) Progressive Web App (PWA) Support
+ ( ) Router
+ ( ) Vuex
+ ( ) CSS Pre-processors             //CSS预处理器
+ (*) Linter / Formatter             //格式化工具
+ ( ) Unit Testing                   //单元测试
+ ( ) E2E Testing                    //E2E测试
+? Choose a version of Vue.js that you want to start the project with (Use arrow keys)
+  2.x
+> 3.x (Preview)
+Use class-style component syntax? n
+Use Babel alongside TypeScript (required for modern mode, auto-detected polyfills, transpiling JSX)? (Y/n) n
+? Pick a linter / formatter config: (Use arrow keys)
+> ESLint with error prevention only
+  ESLint + Airbnb config
+  ESLint + Standard config
+  ESLint + Prettier
+  TSLint (deprecated)
+? Pick additional lint features: (Press <space> to select, <a> to toggle all, <i> to invert selection)
+>(*) Lint on save         //保存的时候进行Lint
+ ( ) Lint and fix on commit   //需要帮你进行fix（修理），这项我们不进行选择
+Where do you prefer placing config for Babel, ESLint, etc.? In dedicated config files
+Save this as a preset for future projects? (y/N) n
+? Pick the package manager to use when installing dependencies:
+> Use Yarn
+  Use NPM
+```
+
+- 若使用vue ui命令配置项选择如下：
+
+![项目详情](../../img/w_img/cli1.png)
+![项目预设](../../img/w_img/cli2.png)
+![项目功能](../../img/w_img/cli3.png)
+![项目配置](../../img/w_img/cli4.png)
+![保存预设](../../img/w_img/cli5.png)
+
+**4. 运行项目，进入到项目文件夹后，运行如下命令：**
 
 ```shell
 npm run serve
 # or
-npx vue-cli-service serve
-npm run dev  #运行webpack生成的项目
+yarn serve
+#运行webpack生成的项目
+npm run dev
 ```
 
-![项目结构](../../img/w_img/18.png)
+- vue3+typescript项目结构如下：
+
+```
+|-node_modules       -- 所有的项目依赖包都放在这个目录下
+|-public             -- 公共文件夹
+---|favicon.ico      -- 网站的显示图标
+---|index.html       -- 入口的html文件
+|-src                -- 源文件目录，编写的代码基本都在这个目录下
+---|assets           -- 放置静态文件的目录，比如logo.pn就放在这里
+---|components       -- Vue的组件文件，自定义的组件都会放到这
+---|App.vue          -- 根组件，这个在Vue2中也有
+---|main.ts          -- 入口文件，因为采用了TypeScript所以是ts结尾
+---|shims-vue.d.ts   -- 类文件(也叫定义文件)，因为.vue结尾的文件在ts中不认可，所以要有定义文件
+|-.browserslistrc    -- 在不同前端工具之间公用目标浏览器和node版本的配置文件，作用是设置兼容性
+|-.eslintrc.js       -- Eslint的配置文件，不用作过多介绍
+|-.gitignore         -- 用来配置那些文件不归git管理
+|-package.json       -- 命令配置和包管理文件
+|-README.md          -- 项目的说明文件，使用markdown语法进行编写
+|-tsconfig.json      -- 关于TypoScript的配置文件
+|-yarn.lock          -- 使用yarn后自动生成的文件，由Yarn管理，安装yarn包时的重要信息存储到yarn.lock文件中
+```
+
+![vue2项目结构](../../img/w_img/18.png)
 ![项目预览](../../img/w_img/19.png)
 
 - 生成用于生产环境的包

@@ -4,6 +4,7 @@
 
 - [安装 node.js 环境](../Nodejs/node_jsStart.md)
 - VS Code IDE
+- @vue/cli 4.5.6
 
 ## **步骤说明**
 
@@ -17,8 +18,11 @@ npm install -g vue
 
 **2. 安装 vue 最新版脚手架，代码如下**
 
-```
+```bash
 cnpm install -g @vue/cli
+# OR
+yarn global add @vue/cli
+vue --version #查看版本号
 ```
 
 - 至此环境就已经搭建好了

@@ -10,4 +10,7 @@
 
 - [安装](Web/Vue/vueInstall.md)
 - [VsCode 配置 Vue](Web/Vue/configWithVue.md)
-- [Vue CLI](Web/Vue/vue-cliConfig.md)
+- [Vue CLI](Web/Vue/cliConfig.md)
+- [Package.json 文件详解](Web/Vue/package.md)
+- [Vue3.x 生命周期和钩子函数](Web/Vue/lifeCycle.md)
+- [Vue3 模块化介绍](Web/Vue/modularity.md)
