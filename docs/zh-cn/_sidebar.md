@@ -1,48 +1,69 @@
-- [封面](/)
-- [指南](guide.md)
+- [主页](/)
+- [指南]](guide.md)
 
-- 人工智能
+- Backend
 
-  - [AI](AI/aiList.md)
-  - [数据库](Database/dbList.md)
+  - [互联网](Internet/itList.md)
+  - [操作系统和通用知识](OSGK/OSgkList.md)
+  - [学习 API](API/APIList.md)
+  - [缓存](Caching/cachList.md)
+  - [网页安全](WSecurity/wsList.md)
+  - [测试](Testing/testList.md)
+  - [自动化部署](CI-CD/CIDList.md)
+  - [监控](Dashboard/dashList.md)
 
-- Linux 系统
+- 编程语言
+
+  - [JavaScript](JavaScript/JSList.md)
+  - [Python](Python/pyList.md)
+  - [GO](Go/goList.md)
+  - [Nodejs](Web/Nodejs/node_jsStart.md)
+  - [Typescript](Web/Typescript/TSList.md)
+  - [Sass](Web/Sass/SassList.md)
+  - [Vue](Web/Vue/VList.md)
+
+- 版本控制
+
+  - [Git](Web/Git/GitList.md)
+  - [Github CLI](GithubCLI/ghList.md)
+
+- [数据库](Database/dbList.md)
+
+- UI 设计
+
+  - [Design pattern](UI/designPattern.md)
+  - [Matching](UI/matching.md)
+  - [Matching system](UI/matchingMethod.md)
+  - [CMYK](UI/colorMode.md)
+  - [3D](3D/3dList.md)
+
+- 架构模式
+
+  - [单片机](IOT/IotList.md)
+
+- [搜素引擎](SEngines/seList.md)
+
+- [消息代理](MsgBroker/mbList.md)
+
+- [容器技术](Container/ctList.md)
+
+- [Web服务器](Server/SList.md)
+
+- Linux
 
   - [CentOS](Linux/CentOS/cosList.md)
   - [Kali](Linux/Kali/kaliList.md)
   - [Ubentu](Linux/Ubentu/ubentuList.md)
   - [Deepin](Linux/Deepin/deepinList.md)
 
-- [Python 语言](Python/pyList.md)
-- [GO 语言](Go/goList.md)
-- [容器技术](Container/ctList.md)
-- [windows 系统优化](system-optimization/SOList.md)
+- Front-end
 
-- 物联网
-
-  - [物联网](IOT/IotList.md)
-
-- 硬件
-
-  - [硬件](Hardware/hwList.md)
-
-- 前端
-
-  - [文档博客搭建](Web/docsBuild.md)
-  - [Nodejs 使用](Web/Nodejs/node_jsStart.md)
-  - [Typescript 使用](Web/Typescript/TSList.md)
-  - [Vue 使用](Web/Vue/VList.md)
-  - [VsCode 使用](Web/VsCode/VCList.md)
-  - [Git 使用](Web/Git/GitList.md)
+  - [VsCode使用](Web/VsCode/VCList.md)
+  - [打包管理](Web/Package/pkgList.md)
   - [云服务](Web/CloudServers/CloudList.md)
   - [代码规范](Web/CodeStandards/CodeList.md)
   - [前端学习路线](Web/Frontlearning.md)
-  - [web 服务器](Server/SList.md)
 
-- UI 设计
+- [系统优化](optimize/SOList.md)
 
-  - [设计模式](UI/designPattern.md)
-  - [配色](UI/matching.md)
-  - [配色方法](UI/matchingMethod.md)
-  - [色彩模式](UI/colorMode.md)
-  - [3D](3D/3dList.md)
+- [硬件](Hardware/hwList.md)
