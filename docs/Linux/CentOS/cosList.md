@@ -34,3 +34,4 @@
 - [pssh 部署](Linux/CentOS/pssh.md)
 - [日志系统](Linux/CentOS/SyslogInstall.md)
 - [redis 安装与配置](Linux/CentOS/redisInstall.md)
+- [linux常用命令](Linux/CentOS/command.md)

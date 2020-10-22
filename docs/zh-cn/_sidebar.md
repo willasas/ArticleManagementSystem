@@ -31,10 +31,7 @@
 
 - UI 设计
 
-  - [Design pattern](UI/designPattern.md)
-  - [Matching](UI/matching.md)
-  - [Matching system](UI/matchingMethod.md)
-  - [CMYK](UI/colorMode.md)
+  - [Design](UI/uiList.md)
   - [3D](3D/3dList.md)
 
 - 架构模式
