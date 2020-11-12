@@ -35,4 +35,17 @@ cd /workspace/  #命令说明
 
 - <a href="#" title="链接说明">链接名称</a>
 
+```sql
+-- 创建表
+CREATE TABLE student (
+  id INT NOT NULL AUTO_INCREMENT,
+  stu_id INT NOT NULL,
+  name VARCHAR(30) NOT NULL,
+  age INT NOT NULL,
+  address VARCHAR(30) NOT NULL,
+  UNIQUE KEY `un_stu_id` (stu_id),
+  PRIMARY KEY (id),
+) ENGINE=InnoDB DEFAULT CHARSET=utf8m64;
+```
+
 #### 注意事项

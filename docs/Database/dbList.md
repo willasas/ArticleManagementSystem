@@ -10,6 +10,7 @@
 
 - [安装](Database/Mysql/Install.md)
 - [Mysql 规范](Database/Mysql/standard.md)
+- [Mysql 表连接](Database/Mysql/tableJoins.md)
 
 > Mariadb
 
