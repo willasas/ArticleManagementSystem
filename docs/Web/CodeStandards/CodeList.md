@@ -11,6 +11,9 @@
 - [js 优化](Web/CodeStandards/jsOptimization.md)
 - [seo 优化](Web/CodeStandards/SEO.md)
 - [网页加载时间优化](Web/CodeStandards/loadingTimeOptimize.md)
+- [浏览器工作原理](Web/CodeStandards/browser.md)
+- [CSS动画工具](Web/CodeStandards/cssTools.md)
+- [前端UI组件库设计](Web/CodeStandards/designUIComponents.md)
 
 ### 其他
 

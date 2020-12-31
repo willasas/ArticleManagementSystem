@@ -14,3 +14,4 @@
 - [Package.json 文件详解](Web/Vue/package.md)
 - [Vue3.x 生命周期和钩子函数](Web/Vue/lifeCycle.md)
 - [Vue3 模块化介绍](Web/Vue/modularity.md)
+- [Vue项目打包部署](Web/Vue/vuePackage.md)

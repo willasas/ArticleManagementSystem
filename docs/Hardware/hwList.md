@@ -18,6 +18,7 @@
 - [鼠标](Hardware/mouse.md)
 - [键盘](Hardware/keyboard.md)
 - [路由器](Hardware/router.md)
+- [网线](Hardware/cable.md)
 
 ## **评测相关**
 

@@ -30,6 +30,7 @@
 - [OpenMoji 免费表情符号库](https://www.openmoji.org)
 - [Share Icon 免费矢量素材图库](https://www.shareicon.net)
 - [Feathericons 极简 ICON 图标集](https://feathericons.com)
+- [自定义GitHub项目徽标](https://shields.io/)
 
 **4. 其他类网站**
 
@@ -152,6 +153,14 @@
 - [Dust3D](https://dust3d.org/)
 - [30secondsofcode](https://www.30secondsofcode.org/)
 
+**3. 网盘传输类**
+
+- <a href="https://cowtransfer.com/" title="成熟、功能多(部分功能需要注册登录付费)，可使用临时邮箱注册验证">奶牛快传</a>
+- <a href="https://cp.anyknew.com/" title="轻量级、阅后即焚、只含少量广告、单次最多400M">拷贝兔</a>
+- <a href="https://wetransfer.com/" title="无广告、单次最多 2G">WeTransfer</a>
+- <a href="https://app.tmp.link" title="无广告、单次最多 10G，必须登录才能使用，但支持用临时邮箱验证登录">钛盘</a>
+- <a href="https://sourceforge.net/projects/dukto/" title="局域网传文件最好用的软件，跨平台无网络传输，支持 Mac、Windows、iOS、Android | LAN transfer files">Dukto</a>
+
 ### 加速器类网站
 
 - [蓝泡网游加速器](https://www.lpjsq.cn/)
@@ -256,6 +265,9 @@
 - [开源模型库](https://www.pixelsquid.com/)
 - [高精度自动建模](https://www.capturingreality.com/)
 - [3d animation](https://cascadeur.com/download)
+- [cgmodel](https://www.cgmodel.com/)
+- [znzmo家具模型下载](https://www.znzmo.com/)
+- [Chimera Painter](https://storage.googleapis.com/chimera-painter/index.html)
 
 ### 特效源码
 

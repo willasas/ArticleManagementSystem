@@ -1,5 +1,5 @@
 - [主页](/)
-- [指南]](guide.md)
+- [指南](guide.md)
 
 - Backend
 
