@@ -59,7 +59,6 @@
   - [Package Managers](Web/Package/pkgList.md)
   - [CloudServers](Web/CloudServers/CloudList.md)
   - [CodeStandards](Web/CodeStandards/CodeList.md)
-  - [Weblearning](Web/Frontlearning.md)
 
 - [OS optimize](optimize/SOList.md)
 

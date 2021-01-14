@@ -1,11 +1,11 @@
 - [主页](/)
 - [指南](guide.md)
 
-- Backend
+- 后端
 
   - [互联网](Internet/itList.md)
   - [操作系统和通用知识](OSGK/OSgkList.md)
-  - [学习 API](API/APIList.md)
+  - [API](API/APIList.md)
   - [缓存](Caching/cachList.md)
   - [网页安全](WSecurity/wsList.md)
   - [测试](Testing/testList.md)
@@ -59,7 +59,6 @@
   - [打包管理](Web/Package/pkgList.md)
   - [云服务](Web/CloudServers/CloudList.md)
   - [代码规范](Web/CodeStandards/CodeList.md)
-  - [前端学习路线](Web/Frontlearning.md)
 
 - [系统优化](optimize/SOList.md)
 

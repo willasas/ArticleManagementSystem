@@ -4,4 +4,5 @@
 
 ### 使用
 
+- [Github优化](GithubCLI/optimizingGithub.md)
 - [安装](GithubCLI/Install.md)
