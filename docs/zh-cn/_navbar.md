@@ -2,7 +2,7 @@
 
 - 入门
 
-  - [快速入门](quickstart.md)
+  - [快速入门](get-started.md)
   - <a href="nav/list.md.html">列表</a>
   - <a href="nav/more.md.html">更多</a>
 

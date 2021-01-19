@@ -2,7 +2,7 @@
 
 - Getting started
 
-  - [Quick start](quickstart.md)
+  - [Quick start](get-started.md)
   - <a href="nav/list.md.html">List</a>
   - <a href="nav/more.md.html">More</a>
 

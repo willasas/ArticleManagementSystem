@@ -19,7 +19,7 @@
   - [GO](Go/goList.md)
   - [Nodejs](Web/Nodejs/node_jsStart.md)
   - [Typescript](Web/Typescript/TSList.md)
-  - [Sass](Web/Sass/SassList.md)
+  - [Sass/scss](Web/Scss/ScssList.md)
   - [Vue](Web/Vue/VList.md)
 
 - Version Control

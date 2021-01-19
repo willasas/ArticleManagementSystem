@@ -13,13 +13,17 @@
   <!-- docsify-themeable -->
   <link rel="stylesheet" href="https://unpkg.com/prism-theme-one-dark/prism-onedark.css" />
   <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0"></script>
+  <!-- Prism Code Highlighting -->
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1.23.0/prism.min.js"></script>
   <!-- Link Gitalk -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
   <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
   <!-- index style -->
   <link rel="stylesheet" href="_media/css/index.css">
-  <!-- Copy to Clipboard -->
-  <script src="https://cdn.jsdelivr.net/npm/clipboard@2.0.6/dist/clipboard.min.js"></script>
+  <!-- Copy code -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
+  <!-- 链接下一篇文章插件 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
   <!--docsify-themable-style-->
   <style>
     :root {
@@ -37,6 +41,7 @@
 <body>
   <div id="app">Loading...</div>
   <div id="gitalk-container"></div>
+
   <script>
     window.$docsify = {
       //logo
@@ -64,6 +69,8 @@
         "/": "_404.md",
         "/zh-cn": "zh-cn/_404.md"
       },
+      // 配置外链打开方式
+      externalLinkTarget: '_blank',
       //顶部边缘
       topMargin: 90, // default: 0
       //docsify-themeable
@@ -71,20 +78,37 @@
         readyTransition: true, // default
         responsiveTables: true // default
       },
-      //代码复制按钮
-      copyCode: {
-        buttonText: {
-          "/zh-cn/": '点击复制',
-          '/': 'Copy to clipboard'
+      // 搜索配置
+      search: 'auto', //指定搜索路径
+      /* search : [
+        '/',            // => /README.md
+        '/guide',       // => /guide.md
+        '/get-started', // => /get-started.md
+        '/zh-cn/',      // => /zh-cn/README.md
+      ], */
+      search: {
+        maxAge: 86400000,  //到期时间
+        paths: [], // 可以设置搜索的目录，或设置auto或/
+        // 搜索框的提示
+        placeholder: {
+          '/zh-cn/': '搜索',
+          '/': 'Type to search'
         },
-        errorText: {
-          "/zh-cn/": '错误',
-          '/': 'Error'
+        // 无结果时显示的文字
+        noData: {
+          '/zh-cn/': '找不到结果',
+          '/': 'No Results'
         },
-        successText: {
-          "/zh-cn/": '复制',
-          '/': 'Copied'
-        }
+        depth: 2,  //标题深度,可以设置为1-6
+        hideOtherSidebarContent: false, //隐藏其他侧边栏内容,默认false
+        namespace: 'website-1', //避免搜索索引冲突
+      },
+      // 文章翻页
+      pagination: {
+        previousText: '上一篇',
+        nextText: '下一篇',
+        crossChapter: true,
+        crossChapterText: true,
       },
       plugins: [
         function (hook) {
@@ -132,16 +156,18 @@
       navigator.serviceWorker.register('sw.js')
     }
   </script>
-  <!-- gitter支持 -->
+  <!-- Gitter支持 -->
   <script>
     ((window.gitter = {}).chat = {}).options = {
       room: "WaresWebsite/community"
     };
   </script>
-  <!-- Required: docsify + docsify-plugins -->
+  <!-- Required: docsify + docsify-plugins + external-script + zoom-image -->
   <script src="https://sidecar.gitter.im/dist/sidecar.v1.js" async defer></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
 </body>
 
 </html>
